@@ -2,3 +2,4 @@
 - `uppercase.py`: prints a string in uppercase using ASCII conversion.
 - `print_last_digit.py`: prints and returns the last digit of a number.
 - `pow.py`: returns a raised to the power of b using a loop, without the ** operator.
+- `simple_add.py` and `test_import.py`: show how importing a file differs from running it, using `if __name__ == "__main__"`.
