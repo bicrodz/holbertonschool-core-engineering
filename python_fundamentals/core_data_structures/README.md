@@ -2,3 +2,4 @@
 - `element_at.py`: safely retrieves an element from a list, returning None for negative or out-of-range indexes.
 - `replace_in_list.py`: replaces an element of a list at a given position, leaving the list unchanged for invalid indexes.
 - `print_matrix_integer.py`: prints a matrix of integers, one row per line, separated by spaces.
+- `add_tuple.py`: adds two tuples position by position, treating missing values as 0 and ignoring extras.
