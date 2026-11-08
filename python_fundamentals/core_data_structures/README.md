@@ -5,3 +5,4 @@
 - `add_tuple.py`: adds two tuples position by position, treating missing values as 0 and ignoring extras.
 - `common_elements.py`: returns a set with the elements common to two sets.
 - `update_dictionary.py`: replaces or adds a key/value pair in a dictionary.
+- `best_score.py`: returns the key with the biggest integer value in a dictionary.
