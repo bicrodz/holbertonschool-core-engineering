@@ -1,1 +1,2 @@
 - `islower.py`: checks whether a character is a lowercase letter using ASCII values.
+- `uppercase.py`: prints a string in uppercase using ASCII conversion.
