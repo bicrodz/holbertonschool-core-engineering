@@ -1,3 +1,4 @@
 - `print_list_integer.py`: prints all integers of a list, one per line.
 - `element_at.py`: safely retrieves an element from a list, returning None for negative or out-of-range indexes.
 - `replace_in_list.py`: replaces an element of a list at a given position, leaving the list unchanged for invalid indexes.
+- `print_matrix_integer.py`: prints a matrix of integers, one row per line, separated by spaces.
