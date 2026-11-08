@@ -4,3 +4,4 @@
 - `pow.py`: returns a raised to the power of b using a loop, without the ** operator.
 - `simple_add.py` and `test_import.py`: show how importing a file differs from running it, using `if __name__ == "__main__"`.
 - `add_0.py` and `add.py`: define add() and import it from another file to print 1 + 2 = 3.
+- `calculator_1.py` and `calculation.py`: import the calculator functions and print addition, subtraction, multiplication and division of 10 and 5.
