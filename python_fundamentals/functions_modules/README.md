@@ -1,3 +1,4 @@
 - `islower.py`: checks whether a character is a lowercase letter using ASCII values.
 - `uppercase.py`: prints a string in uppercase using ASCII conversion.
 - `print_last_digit.py`: prints and returns the last digit of a number.
+- `pow.py`: returns a raised to the power of b using a loop, without the ** operator.
