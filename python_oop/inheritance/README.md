@@ -2,3 +2,4 @@
 - `1-rectangle.py`: defines a Rectangle class that inherits from BaseGeometry.
 - `2-rectangle.py`: adds area and a string representation to Rectangle.
 - `1-square.py`: defines a Square class that inherits from Rectangle.
+- `2-square.py`: adds a Square string representation.
