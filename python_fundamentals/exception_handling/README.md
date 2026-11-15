@@ -1,2 +1,3 @@
 - `safe_print_list.py`: prints x elements of a list safely and returns the number of elements printed.
 - `safe_print_integer.py`: prints an integer safely and returns True, or returns False if the value is not an integer.
+- `safe_print_list_integers.py`: prints only the integers among the first x elements of a list and returns how many were printed.
