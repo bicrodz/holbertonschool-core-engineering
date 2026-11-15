@@ -1,0 +1,1 @@
+- `animals.py`: defines an abstract Animal class and the Dog and Cat subclasses.
