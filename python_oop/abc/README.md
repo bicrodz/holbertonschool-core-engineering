@@ -1,1 +1,2 @@
 - `animals.py`: defines an abstract Animal class and the Dog and Cat subclasses.
+- `shapes.py`: defines an abstract Shape class, Circle and Rectangle, and a duck-typed shape_info function.
