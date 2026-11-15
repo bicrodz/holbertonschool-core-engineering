@@ -1,0 +1,1 @@
+- `0-square.py`: defines an empty Square class.
