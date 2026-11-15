@@ -3,3 +3,4 @@
 - `safe_print_list_integers.py`: prints only the integers among the first x elements of a list and returns how many were printed.
 - `safe_print_division.py`: divides two integers safely and always prints the result using finally.
 - `raise_exception.py`: raises a TypeError.
+- `raise_exception_msg.py`: raises a NameError with a custom message.
