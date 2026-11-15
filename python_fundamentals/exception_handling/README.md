@@ -2,3 +2,4 @@
 - `safe_print_integer.py`: prints an integer safely and returns True, or returns False if the value is not an integer.
 - `safe_print_list_integers.py`: prints only the integers among the first x elements of a list and returns how many were printed.
 - `safe_print_division.py`: divides two integers safely and always prints the result using finally.
+- `raise_exception.py`: raises a TypeError.
