@@ -1,1 +1,2 @@
 - `safe_print_list.py`: prints x elements of a list safely and returns the number of elements printed.
+- `safe_print_integer.py`: prints an integer safely and returns True, or returns False if the value is not an integer.
