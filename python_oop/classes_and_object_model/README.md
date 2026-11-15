@@ -1,2 +1,3 @@
 - `0-square.py`: defines an empty Square class.
 - `1-square.py`: defines a Square class with a private size attribute.
+- `2-square.py`: adds validation to the size attribute of Square.
