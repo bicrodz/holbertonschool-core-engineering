@@ -5,3 +5,4 @@
 - `4-square.py`: adds a getter and a setter for the size attribute of Square.
 - `5-square.py`: adds a my_print method that prints the square with #.
 - `6-square.py`: adds position and a string representation to Square.
+- `1-rectangle.py`: defines a Rectangle class with validated width and height.
