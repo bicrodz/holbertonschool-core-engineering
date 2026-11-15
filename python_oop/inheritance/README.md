@@ -1,0 +1,1 @@
+- `base_geometry.py`: defines the BaseGeometry class with area and integer_validator methods.
