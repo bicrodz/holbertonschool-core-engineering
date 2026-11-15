@@ -1,1 +1,2 @@
 - `base_geometry.py`: defines the BaseGeometry class with area and integer_validator methods.
+- `1-rectangle.py`: defines a Rectangle class that inherits from BaseGeometry.
