@@ -6,3 +6,4 @@
 - `5-square.py`: adds a my_print method that prints the square with #.
 - `6-square.py`: adds position and a string representation to Square.
 - `1-rectangle.py`: defines a Rectangle class with validated width and height.
+- `2-rectangle.py`: adds area and perimeter methods to Rectangle.
