@@ -1,0 +1,1 @@
+- `read_file.py`: function that reads a UTF8 text file and prints it to stdout using `with`.
