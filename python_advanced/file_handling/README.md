@@ -1,1 +1,2 @@
 - `read_file.py`: function that reads a UTF8 text file and prints it to stdout using `with`.
+- `write_file.py`: function that writes a string to a UTF-8 file (create/overwrite) and returns the number of characters written.
